@@ -1,3 +1,5 @@
+# Fundamentos React
+Feito com base [neste vídeo](https://www.youtube.com/watch?v=XQxitgyZ_S4).
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
